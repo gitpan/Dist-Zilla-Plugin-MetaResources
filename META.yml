@@ -7,4 +7,8 @@ license: perl
 name: Dist-Zilla-Plugin-MetaResources
 requires: 
   Dist::Zilla: 1.006
-version: 0.01
+resources: 
+  bugtracker: http://github.com/fayland/dist-zilla-plugin-metaresources/issues
+  homepage: http://github.com/fayland/dist-zilla-plugin-metaresources
+  repository: http://github.com/fayland/dist-zilla-plugin-metaresources/tree/master
+version: 0.02
